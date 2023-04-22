@@ -30,5 +30,5 @@ Um Estudante de tecnologia com motivação suficiente para voar alto ✈️
 - [Campo Minado LongLife](https://omathdev.github.io/JogoDoClick/)<br>
 
 
-
+![snake gif](https://github.com/omathdev/omathdev/blob/output/github-contribution-grid-snake.svg)
 
