@@ -27,7 +27,12 @@ Um Estudante de tecnologia com motivação suficiente para voar alto ✈️
 
 - [Seletor de Cores para Backgrounds](https://omathdev.github.io/SeletorDeFundo1/)<br>
 
-- [Campo Minado LongLife](https://omathdev.github.io/JogoDoClick/)<br>
+- [Campo Minado LongLife](https://omathdev.github.io/JogoDoClick/) 
+ <div> <img  style="width:200px" src="https://media.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif">
+
 
 ![Snake animation](https://github.com/omathdev/omathdev/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
